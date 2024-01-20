@@ -2,5 +2,5 @@
 Sales Analysis
 
 Learnings--
-Performed Data Cleaning nad Manipulation Using Pandas-Numpy-Matplotlib- and With Seaborn!
+Performed Data Cleaning and Manipulation Using Pandas-Numpy-Matplotlib- and With Seaborn!
 
